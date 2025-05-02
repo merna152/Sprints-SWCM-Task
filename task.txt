@@ -1,2 +1,6 @@
 This is my first Git task
+<<<<<<< HEAD
 Edited from featureX
+=======
+Edited from featureY
+>>>>>>> featureY
